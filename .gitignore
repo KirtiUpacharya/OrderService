@@ -1,0 +1,22 @@
+# Java/Spring Boot specific
+/target/
+/*.log
+/*.jar
+/*.war
+/*.ear
+
+# IDE files
+/.idea/
+/*.iml
+
+# Dependency directories
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# OS-specific files
+.DS_Store
+
+# Environment files
+*.env
+application-*.properties 
